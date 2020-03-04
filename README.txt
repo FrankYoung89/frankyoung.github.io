@@ -29,3 +29,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		https://frankyoung89.github.io/frankyoung.github.io/
