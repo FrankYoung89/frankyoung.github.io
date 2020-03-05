@@ -1,5 +1,5 @@
 USE THIS LINK TO GO TO PORTFOLIO
-https://frankyoung89.github.io/frankyoung.github.io/
+https://frankyoung89.github.io/.
 
 
 Solid State by HTML5 UP
